@@ -1,4 +1,4 @@
-#include "gridcell.h"
+#include "Gridcell.h"
 
 Cell::Cell(): 
 	isEditable(1),
