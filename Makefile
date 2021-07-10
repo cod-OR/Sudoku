@@ -1,6 +1,6 @@
 
 #OBJS specifies which files to compile as part of the project
-OBJS = main.cpp Sudoku.cpp Button.cpp gridcell.cpp puzzle.cpp
+OBJS = main.cpp Sudoku.cpp Button.cpp Gridcell.cpp puzzle.cpp
 
 #CC specifies which compiler we're using
 CC = g++
