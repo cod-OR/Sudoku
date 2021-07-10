@@ -126,7 +126,7 @@ void Sudoku::preloadTextures(){
 	loadTexture(TextureCache[16], "Instr", fontColour);
 	loadTexture(TextureCache[17], "Quit", fontColour);
 
-	// Load textures for credits and instr images
+	// Load textures for instr image
 	loadImage(ImageTextures[0], "images/instr3.bmp");
 }
 
